@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shoto Asha
+
+This log tracks the cryptographic history and versioning for the song **Shoto Asha** (shoto-asha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T09:19:08.823240 | `v1` | `f852f57a775e1e1a990e00442fea4ad91088cc7b1e24901826d8f0e43dfec0cb` | `604d93d15a6a1a1331cc86cca52191d30c3e10f368922e523fe57bf51ff232d7` | `2026-05-10_shoto-asha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

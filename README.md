@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের আধারে তুমি আমার নেশা
+> তোমায় ছুঁয়ে জাগে মনে শত আশা
+> তোমার চোখে হারিয়েছি আমার সীমানা
+> এই মাতাল হাওয়াতে মন যে মানে না
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
